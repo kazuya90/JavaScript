@@ -8,3 +8,8 @@ manifest.jsonを選択する
 フォルダ自体ではなく中身（manifest.jsonを含む全てのファイル）を直接ZIPへ
 https://addons.mozilla.org/ja/developers/　へアクセス
 ※80jpを使用
+
+# backgroundとcontentのやりとり
+テキストデータのみ　sendmessageなどを使用
+
+# 
