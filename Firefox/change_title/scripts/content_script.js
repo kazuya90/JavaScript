@@ -15,7 +15,7 @@ function changeTitle(_dict) {
   //urlを取得
   var url = location.href;
   //辞書にある場合はタイトルに追加
-  title[0].innerText = _dict[url] + title[0].innerText
+  title[0].innerText = _dict[url] + "_" + title[0].innerText
 }
 
 //メイン関数
