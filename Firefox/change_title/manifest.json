@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "change_title",
+  "version": "1.0",
+  "description": "EXCELにある番号列とURL列をコピーして番号をtitleへ反映する",
+  "browser_action": {
+    "default_icon": {
+      "16": "resources/page-16.png",
+      "32": "resources/page-32.png"
+    },
+    "default_title": "change_title",
+    "default_popup": "html/main.html"
+  },
+  "permissions": [
+    "<all_urls>",
+    "tabs"
+  ],
+  "web_accessible_resources": []
+}
