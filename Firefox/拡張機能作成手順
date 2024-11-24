@@ -12,4 +12,5 @@ https://addons.mozilla.org/ja/developers/　へアクセス
 # backgroundとcontentのやりとり
 テキストデータのみ　sendmessageなどを使用
 
-# 
+# 入力フォームの内容が都度消えてしまう
+Storageを利用する
